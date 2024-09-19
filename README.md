@@ -29,7 +29,7 @@ The steps:
 ### Files
 All the codes are done in this file. 
          
-      Tormes_PA3-P1.py
+      Tormes_Pandas-P1.py
 
 ### Reference
 
